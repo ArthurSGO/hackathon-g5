@@ -1,0 +1,17 @@
+target/
+*.class
+
+node_modules/
+.expo/
+dist/
+build/
+
+.env
+.env.local
+
+.idea/
+.vscode/
+*.iml
+
+.DS_Store
+Thumbs.db
