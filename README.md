@@ -49,7 +49,7 @@ JWT
 
 ### Banco de Dados
 
-Responsável por armazenar usuários, seleções, partidas, palpites, resultados, pontuações e demais dados necessários para o funcionamento do sistema.
+Responsável por arasdasdadadaasmazenar usuários, seleções, partidas, palpites, resultados, pontuações e demais dados necessários para o funcionamento do sistema.
 
 Tecnologia prevista:
 
